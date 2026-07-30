@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "A Goal-Conditioned Information-Theoretic Framework for Modeling Human Attention"
+authors:
+  - family-names: Pati
+    given-names: Shriyans
+version: 1.0.0
+date-released: 2026-07-30
+repository-code: "https://github.com/shriyanspati/A-Goal-Conditioned-Information-Theoretic-Framework-for-Modeling-Human-Attention"
+license: MIT
+keywords:
+  - attention
+  - information theory
+  - cognitive science
+  - mutual information
+  - artificial intelligence
