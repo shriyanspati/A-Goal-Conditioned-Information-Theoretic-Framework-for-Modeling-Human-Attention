@@ -1,7 +1,8 @@
 ![GitHub release](https://img.shields.io/github/v/release/shriyanspati/A-Goal-Conditioned-Information-Theoretic-Framework-for-Modeling-Human-Attention)
 ![License](https://img.shields.io/github/license/shriyanspati/A-Goal-Conditioned-Information-Theoretic-Framework-for-Modeling-Human-Attention)
 ![Paper](https://img.shields.io/badge/Paper-Research-blue)
-**# A Goal-Conditioned Information-Theoretic Framework for Modeling Human Attention
+
+# A Goal-Conditioned Information-Theoretic Framework for Modeling Human Attention
 
 **Author:** Shriyans Pati  
 **GitHub:** https://github.com/shriyanspati  
